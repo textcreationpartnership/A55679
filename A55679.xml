@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Prerogative of the Right Honorable The Lord Mayor of London asserted</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55679</idno><idno type="EEBO-CITATION">13741542</idno>
+  <idno type="VID">101658</idno>
+  <idno type="EEBO-PROQUEST">2240900010</idno>
+  
+            <idno type="STC">Wing P3221</idno>
+            <idno type="STC">ESTC R9001</idno>
+            <idno type="OCLC">13741542</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55679)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101658)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Prerogative of the Right Honorable The Lord Mayor of London asserted</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Mearne,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Printer and date of publication from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sheriffs --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Politics and government.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101658:1"/>
+            <head>THE PREROGATIVE OF THE RIGHT HONORABLE The Lord Mayor of <hi>LONDON,</hi> ASSERTED.</head>
+            <p>AN Act of Common Councel that the Election of Sherift shall be made on St. <hi>Matthews</hi> day,
+<note place="margin">7 <hi>R.</hi> II.</note> and when the Commons shall be agreed upon an able Person they shall present him to the Mayor and Aldermen.</p>
+            <p>Upon the Kings Writ to the Mayor, Aldermen,
+<note place="margin">16 <hi>R.</hi> II.</note> and Commons to chuse Sheriffs, according to the Antient Custom and Usage the Mayor chose one, and the Commonalty another.</p>
+            <p>The Mayor names one Sheriff to be assigned in the name of him and the Aldermen, and then they left the Commons to make their Choice.
+<note place="margin">22 <hi>H.</hi> VI.</note>
+            </p>
+            <p>In this Year <hi>John Persival</hi> the Mayor of <hi>London</hi>'s Carver,
+<note place="margin">
+                  <hi>A.D.</hi> 1486. 1 <hi>H.</hi> VII. <hi>Baker</hi>'s Chron.</note> waiting at his Table, was CHOSEN one of the Sheriffs of <hi>London,</hi> ONLY by Sir <hi>John Collet</hi>'s, then Mayor, drinking to him in a Cup of Wine, as the Custom is to drink to him whom he LIST to name Sheriff, and forthwith the said <hi>Persival</hi> sate down at the Mayors Table, and co<g ref="char:EOLhyphen"/>vered his head, and was afterward Mayor himself.</p>
+            <p>One chose by the Commons to joyn with him that was before named by the Mayor by his Prerogative;
+<note place="margin">18 <hi>H.</hi> VIII.</note> and also according to the Antient Rules and Ordinances.</p>
+            <p>A Letter from the Court of Aldermen,
+<note place="margin">21 <hi>H.</hi> VIII.</note> acquainting one that he had been Chosen by the Commonalty, to be associate with another be<g ref="char:EOLhyphen"/>fore appointed by the Mayor, and by the Citizens Confirmed.</p>
+            <p>
+               <hi>Lib. Alb. &amp; Dunthan.</hi>
+            </p>
+            <p>Speaking of the Election of Sheriffs, say, That the Mayor shall first Chuse one for whom he will answer the Moiety of the Farm, if the per<g ref="char:EOLhyphen"/>son be not sufficient; But if he Chuse by the Advice of the Aldermen, then they are to answer with him; and the Commons shall Chuse an<g ref="char:EOLhyphen"/>other, for whom they will answer the other Moiety.</p>
+            <p>Alderman <hi>Martin</hi> having been treated with by the Common-Councel touching the acceptance of the Office of one of the Sheriffs,
+<note place="margin">23 <hi>Eliz.</hi>
+               </note> declared in Common-Councel, He would if the Lord Mayor Chose him thereunto, who did Chuse him afterwards accordingly.</p>
+            <pb n="2" facs="tcp:101658:2"/>
+            <p>The like Act having been made before in the 36 of <hi>Eliz.</hi>
+               <note place="margin">7 <hi>Car.</hi> I.</note> only with less Penalties. All former Acts touching Election and Confirmation of Sheriffs (the Penalties having been too mild) made void: The day as well for Confirmation and Allowance for such person as shall be Chosen and Elected by the Mayor to be Sheriff, as for the choice of such other person, as by the Lord Mayor, Aldermen and Commons shall be Chosen to be Sheriff, shall be the 24. day of <hi>June.</hi>
+            </p>
+            <p>None to be Chosen or Elected shall be discharged,
+<note place="margin">Before this Act it was St. <hi>Matthew</hi>'s day.</note> if worth 10000 <hi>l.</hi> If any so Chosen or Elected do not become bound before the next Court of Aldermen to hold the Office, he shall forfeit. If any Forfeiture shall be made by him that shall be first Chosen or Elected by the Lord Mayor, part of such Forfeiture shall be to him that first in the same Year accept the Office. And if after such acceptance other Forfeiture shall be made by any Chose by the Lord Mayor, Aldermen and Commons, part there<g ref="char:EOLhyphen"/>of shall be to him that first after him accept the Office being Elected by the Lord Mayor, Aldermen and Commons; and that no Alderman shall by posteriority of Election be inferior to a Commoner. The Mayor not to Chuse any Commoner while there is an Alderman Eligible.</p>
+            <div type="part">
+               <head>
+                  <hi>Out of the Book, call'd,</hi> The Book of Habits, <hi>Printed time out of mind, an Impression of</hi> 1617. <hi>now to be seen, the same word for word with</hi> Stow<hi>'s</hi> Survey of <hi>London.</hi>
+               </head>
+               <p>My Lord Mayor and the Aldermen, with the Sheriffs, meet at the <hi>Guild-Hall</hi> at eight of the Clock in the Morning, apparelled in their Violet Gowns lined, and their Cloaks of Scarlet lined, without their Horses.</p>
+               <p>And when they have been together in the Council-Chamber a cer<g ref="char:EOLhyphen"/>tain time, concerning the Nomination of certain persons to be Elected, my Lord and the Aldermen come out, and put on their Cloaks in the Orphans Court, and then go down in order to the Hustings Court, and there being set, Master Recorder standeth up, and maketh his Obeysance, first to my Lord, and then unto the Commons, and decla<g ref="char:EOLhyphen"/>reth unto them wherefore they are assembled together, shewing unto them that it is for the Election of one of the Sheriffs of <hi>London,</hi> and the Sheriff of <hi>Middlesex</hi> for the Year next ensuing, and the CONFIR<g ref="char:EOLhyphen"/>MATION of the other Sheriff nominated by my Lord Mayor, accord<g ref="char:EOLhyphen"/>ing to his PREROGATIVE; and also for Master Chamberlain and other Officers.</p>
+               <p>But my Lord and the Aldermen go up to my Lords Court, and there remain until the Sheriff be named and chosen, the door shut to them.</p>
+               <p>Then Master Sheriffs, Master Chamberlain, Master Common Serjeant, Master Town-Clerk, and the Counsellors of the City, and other Offi<g ref="char:EOLhyphen"/>cers, remain still in the Hustings Court, to take and receive the Name of HIM that shall seem by their judgments, freely and with one consent to be nominated and elected, and justly tried out, not only by voice, but also by hands, to be Sheriff for the Year following.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>S. Mearne,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
